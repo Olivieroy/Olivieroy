@@ -42,13 +42,13 @@
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
 
-<br> -->
+<br> 
 
 ## :dart: À propos de moi ##
 
-*Je suis Olivier Roy, développeur web et mobile
-*Je suis un étudiant en deuxième année de Bachelor Webdesign à MyDigitalSchool Angers
-*Je suis également en alternance à Com&Click, une agence d'acquisition digitale en tant que Webdesigner - Intégrateur
+-Je suis Olivier Roy, développeur web et mobile
+-Je suis un étudiant en deuxième année de Bachelor Webdesign à MyDigitalSchool Angers
+-Je suis également en alternance à Com&Click, une agence d'acquisition digitale en tant que Webdesigner - Intégrateur
 
 ## :sparkles: Features ##
 
