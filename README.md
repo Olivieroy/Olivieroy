@@ -47,7 +47,7 @@
 ## :dart: À propos de moi ##
 
 🙋‍♂️ Je suis Olivier Roy, développeur web et mobile\
-📍À Angers et Saint-Gilles-Croix-de-Vie (France)
+📍À Angers et Saint-Gilles-Croix-de-Vie (France)\
 👨‍💻 Étudiant en deuxième année de Bachelor Webdesign à MyDigitalSchool Angers\
 🌐 Alternant chez Com&Click en tant que Webdesigner - Intégrateur\
 
