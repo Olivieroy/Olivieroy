@@ -6,7 +6,7 @@
   <!-- <a href="https://me.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Hello world 🌐 Je suis Olivier Roy</h1>
+<!-- <h1 align="center">Hello world 🌐 Je suis Olivier Roy</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Olivieroy/me?color=56BEB8">
@@ -42,11 +42,13 @@
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
 
-<br>
+<br> -->
 
-## :dart: About ##
+## :dart: À propos de moi ##
 
-Describe your project
+*Je suis Olivier Roy, développeur web et mobile
+*Je suis un étudiant en deuxième année de Bachelor Webdesign à MyDigitalSchool Angers
+*Je suis également en alternance à Com&Click, une agence d'acquisition digitale en tant que Webdesigner - Intégrateur
 
 ## :sparkles: Features ##
 
