@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://github.com/Olivieroy/me/blob/main/assets/Logo.png" alt="Me" />
+  <img src="https://github.com/Olivieroy/me/blob/main/assets/Logo.png" alt="Me" style="width:150px" />
 
   &#xa0;
 
@@ -9,13 +9,13 @@
 <h1 align="center">Hello world 🌐 Je suis Olivier Roy</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/me?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Olivieroy/me?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/me?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Olivieroy/me?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/me?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Olivieroy/me?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/me?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Olivieroy/me?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/me?color=56BEB8" /> -->
 
