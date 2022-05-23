@@ -1,6 +1,4 @@
-img: assets/logo.png
-[]: # Language: markdown
-[]: # Path: README.md
+<img src="assets/logo.png" style="margin:auto; width:150px">
 
 # Hello world 🌐 Je suis Olivier Roy
 
