@@ -8,41 +8,7 @@
 
  <h1 align="center">Hello world 🌍 Je suis Olivier Roy</h1>
 
-<!-- <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Olivieroy/me?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Olivieroy/me?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Olivieroy/me?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/Olivieroy/me?color=56BEB8"> -->
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/me?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/me?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/me?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Me 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<!-- <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
-</p>
-
-<br>  -->
+<br>  
 
 ## :dart: À propos de moi ##
 
@@ -56,7 +22,9 @@
 
 <a href="https://github.com/Olivieroy/Theme-Wii" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/nintendo-wii-icon/nintendo-wii-icon-28.jpg" width="36"  alt="Wii" /></a> Theme Wii 1. voir le modèle <a href="https://pitivier-officiel.netlify.app/" target="_blank" rel="noreferrer">ici</a>\
 🌐 Web starterpack (en cours de développement)\
-👨‍💻 Intégration de la V2 du site vitrine de Trouvetonlead (en cours de développement)
+👨‍💻 Intégration de la V2 du site vitrine de Trouvetonlead (en cours de développement)\
+<img src="https://github.com/Olivieroy/me/blob/main/assets/casque-perci.png" width="36"  alt="Wii" />Page "site en construction" 4koaFrance. voir le site <a href="https://4koafrance.fr" target="_blank" rel="noreferrer">4koafrance.fr</a>
+
 
 ## :rocket: Mes connaissances ##
 
@@ -71,6 +39,6 @@
 </p>
 
 ## Mes réseaux ##
-<p align="left"> <a href="https://discord.com/users/Olivieroy_graph#5590" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Olivieroy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/olivieroy_graph/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/olivier-roy-webdesigner/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.pinterest.fr/olivieroy_graph/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/pinterest.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Olivieroy_graph#5590" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Olivieroy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/olivieroy_graph/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/olivier-roy-webdesigner/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.pinterest.fr/olivieroy_graph/" target="_blank" rel="noreferrer"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c52e.png" width="32" height="32" /></a></p>
 
 <a href="#top">Back to top</a>
