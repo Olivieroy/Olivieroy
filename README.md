@@ -24,7 +24,7 @@
 🌐 Web starterpack (en cours de développement)\
 👨‍💻 Intégration de la V2 du site vitrine de Trouvetonlead (en cours de développement)\
 <img src="https://github.com/Olivieroy/me/blob/main/assets/casque-perci.png" width="15"  alt="
-4koaFrance" />Page "site en construction" 4koaFrance. voir le site <a href="https://4koafrance.fr" target="_blank" rel="noreferrer">4koafrance.fr</a>
+4koaFrance" /> Page "site en construction" 4koaFrance. voir le site <a href="https://4koafrance.fr" target="_blank" rel="noreferrer">4koafrance.fr</a>
 
 
 ## :rocket: Mes connaissances ##
