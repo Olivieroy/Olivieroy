@@ -47,16 +47,16 @@
 ## :dart: À propos de moi ##
 
 🙋‍♂️ Je suis Olivier Roy, développeur web et mobile\
-📍À Angers et Saint-Gilles-Croix-de-Vie (France)\
+📍 À Angers et Saint-Gilles-Croix-de-Vie (France)\
 👨‍💻 Étudiant en deuxième année de Bachelor Webdesign à MyDigitalSchool Angers\
 🌐 Alternant chez Com&Click en tant que Webdesigner - Intégrateur
 
 
 ## :sparkles: Quelques travaux ##
 
-<a href="https://github.com/Olivieroy/Theme-Wii" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/nintendo-wii-icon/nintendo-wii-icon-28.jpg" width="36"  alt="Wii" /></a> Theme Wii 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3; 
+<a href="https://github.com/Olivieroy/Theme-Wii" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/nintendo-wii-icon/nintendo-wii-icon-28.jpg" width="36"  alt="Wii" /></a> Theme Wii 1. voir le modèle <a href="https://pitivier-officiel.netlify.app/" target="_blank" rel="noreferrer">ici</a>\
+🌐 Web starterpack (en cours de développement)\
+👨‍💻 Intégration de la V2 du site vitrine de Trouvetonlead (en cours de développement)
 
 ## :rocket: Mes connaissances ##
 
@@ -70,14 +70,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<!-- 
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
-
-&#xa0; -->
+## Mes réseaux ##
+<p align="left"> <a href="https://discord.com/users/Olivieroy_graph#5590" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Olivieroy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/olivieroy_graph/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/olivier-roy-webdesigner/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.pinterest.fr/olivieroy_graph/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/pinterest.svg" width="32" height="32" /></a></p>
 
 <a href="#top">Back to top</a>
