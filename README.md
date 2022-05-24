@@ -49,14 +49,14 @@
 🙋‍♂️ Je suis Olivier Roy, développeur web et mobile\
 📍À Angers et Saint-Gilles-Croix-de-Vie (France)\
 👨‍💻 Étudiant en deuxième année de Bachelor Webdesign à MyDigitalSchool Angers\
-🌐 Alternant chez Com&Click en tant que Webdesigner - Intégrateur\
+🌐 Alternant chez Com&Click en tant que Webdesigner - Intégrateur
 
 
-<!-- ## :sparkles: Quelques travaux ##
+## :sparkles: Quelques travaux ##
 
-:heavy_check_mark: Feature 1;\
+<a href="https://github.com/Olivieroy/Theme-Wii" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/nintendo-wii-icon/nintendo-wii-icon-28.jpg" width="36"  alt="Wii" /></a> Theme Wii 1;\
 :heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3; -->
+:heavy_check_mark: Feature 3; 
 
 ## :rocket: Mes connaissances ##
 
