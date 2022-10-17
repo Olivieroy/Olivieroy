@@ -21,7 +21,7 @@
 ## :sparkles: Quelques travaux ##
 
 <a href="https://github.com/Olivieroy/Theme-Wii" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/nintendo-wii-icon/nintendo-wii-icon-28.jpg" width="36"  alt="Wii" /></a> Theme Wii 1. voir le modèle <a href="https://pitivier-officiel.netlify.app/" target="_blank" rel="noreferrer">ici</a>\
-🌐 Web starterpack (en cours de développement)\
+🌐 <a href="https://github.com/Olivieroy/web-starter">Web starter</a>
 👨‍💻 Intégration de la V2 du site vitrine de Trouvetonlead (en cours de développement)\
 <img src="https://github.com/Olivieroy/me/blob/main/assets/casque-perci.png" width="15"  alt="
 4koaFrance" /> Créateur du site 4koaFrance, voir le site <a href="https://4koafrance.fr" target="_blank" rel="noreferrer">4koafrance.fr</a>
