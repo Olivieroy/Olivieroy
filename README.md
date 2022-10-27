@@ -3,7 +3,6 @@
 
   &#xa0;
 
-  <!-- <a href="https://me.netlify.app">Demo</a> -->
 </div>
 
  <h1 align="center">Hello world 🌍 Je suis Olivier Roy</h1>
@@ -14,15 +13,16 @@
 
 🙋‍♂️ Je suis Olivier Roy, développeur web et mobile\
 📍 À Angers et Saint-Gilles-Croix-de-Vie (France)\
-👨‍💻 Étudiant en deuxième année de Bachelor Webdesign à MyDigitalSchool Angers\
-🌐 Alternant chez Com&Click en tant que Webdesigner - Intégrateur
+🌐 Webdesigner - Intégrateur chez Com&Click\
+💻 Développeur Front-End en Freelance\
+✉️ Contactez-moi sur [LinkedIn](https://www.linkedin.com/in/olivier-roy-webdesigner/) ou par mail : olivieroy49.pro@gmail.com
 
 
 ## :sparkles: Quelques travaux ##
 
-<a href="https://github.com/Olivieroy/Theme-Wii" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/nintendo-wii-icon/nintendo-wii-icon-28.jpg" width="36"  alt="Wii" /></a> Theme Wii 1. voir le modèle <a href="https://pitivier-officiel.netlify.app/" target="_blank" rel="noreferrer">ici</a>\
+
 🌐 <a href="https://github.com/Olivieroy/web-starter">Web starter</a>\
-👨‍💻 Intégration de la V2 du site vitrine de Trouvetonlead (en cours de développement)\
+👨‍💻 Intégration de la V2 du site vitrine de Trouvetonlead  <a href="https://www.trouvetonlead.com/" target="_blank">trouvetonlead.com</a>\
 <img src="https://github.com/Olivieroy/me/blob/main/assets/casque-perci.png" width="15"  alt="
 4koaFrance" /> Créateur du site 4koaFrance, voir le site <a href="https://4koafrance.fr" target="_blank" rel="noreferrer">4koafrance.fr</a>
 
@@ -40,6 +40,6 @@
 </p>
 
 ## Mes réseaux ##
-<p align="left"> <a href="https://discord.com/users/Olivieroy_graph#5590" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Olivieroy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/olivieroy_graph/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/olivier-roy-webdesigner/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.pinterest.fr/olivieroy_graph/" target="_blank" rel="noreferrer"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c52e.png" width="32" height="32" /></a></p>
+<p align="left">  <a href="https://www.github.com/Olivieroy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/olivier-roy-webdesigner/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <a href="#top">Back to top</a>
