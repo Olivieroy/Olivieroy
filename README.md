@@ -14,7 +14,7 @@
 
 - ❓ Ask me questions about anything related to the [web-starter](https://github.com/Olivieroy/web-starter/discussions) file.  
 
-- 📫 How to reach me: [olivieroy49.pro@gmail.com](mailto:olivieroy49.pro@gmail.com)
+- 📫 How to reach me: [contact@olivieroy.fr](mailto:contact@olivieroy.fr)
   
 
 <br/>  
