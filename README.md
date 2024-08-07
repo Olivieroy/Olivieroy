@@ -1,9 +1,13 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Olivieroy/Olivieroy/main/assets/Logo.png" align="center" height="" width="200" />
+<img src="https://raw.githubusercontent.com/Olivieroy/Olivieroy/main/assets/banner.png" align="center" height="" width="200" />
 </div>  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=olivieroy&label=Profile%20views&color=0e75b6&style=flat" alt="olivieroy" /> 
+</div>
   
 
-## <div align="center">I'm Olivier, a front-end freelance developer & graphist 👨‍💻 working remotely since 2022 🚀</div>  
+## <div align="center">I'm Olivier, a front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on my [Portfolio](https://olivieroy.fr/)  
