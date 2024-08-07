@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Olivieroy/Olivieroy/main/assets/banner.png" align="center" height="" width="200" />
+<img src="https://raw.githubusercontent.com/Olivieroy/Olivieroy/main/assets/banner.png" align="center" style="width:100%" />
 </div>  
 
 <div align="center">
