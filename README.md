@@ -2,74 +2,46 @@
 <img src="https://raw.githubusercontent.com/Olivieroy/Olivieroy/main/assets/banner-2.png" align="center" style="width:100%" />
 </div>  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=olivieroy&label=Profile%20views&color=0e75b6&style=flat" alt="olivieroy" /> 
-</div>
-  
-
-## <div align="center">I'm Olivier, a front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
-
-- 🔭 I’m currently working on my [Portfolio](https://olivieroy.fr/)  
-  
-
-- 🌱 I’m currently learning VueJS and web accessibility  
-  
-
-- ❓ Ask me questions about anything related to the [web-starter](https://github.com/Olivieroy/web-starter/discussions) file.  
-
-- 📫 How to reach me: [contact@olivieroy.fr](mailto:contact@olivieroy.fr)
-  
-
-<br/>  
+# 👋 Hello! Moi c'est Olivier Roy
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
+## À Propos de Moi
+
+Je suis un développeur front-end spécialisé en WordPress et TailwindCSS. Je crée des thèmes custom et des compositions WordPress avec TailwindCSS.
+
+## Statistiques GitHub
+
+![Olivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivieroy&show_icons=true&theme=radical)
+
+## Technologies & Outils
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+## Projets en Vedette
+
+- [Web Starter](https://github.com/Olivieroy/web-starter.git) - Répertoire template pour les dev front-end junior.
 
 
+## Expérience Professionnelle
 
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a> 
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+- **Com&Click** - Développeur Front-End
+  - Réalisation de maquettes de sites et de mailing pour des campagnes d'acquisition de leads, et développement de ces derniers.
+- **Dioqa** - Intégrateur/Dev Front-End
+  - Mise en place d'un thème custom basé sur TailwindCSS et ACF.
 
-</td><td valign="top" width="50%">
+## Certifications & Formations
 
+- **Bachelor Webdesigner Intégrateur** - MyDigitalSchool (2023)
 
+## Me Contacter
 
-### Graphism  
-<div align="center">  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-</td>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-roy-dev-front/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@olivieroy.fr)
 
-</table>
+## Commits Récents
 
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/olivier-roy-webdesigner" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-<br/>  
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Olivieroy&&style=flat-square" align="center" />
-</div>  
+![GitHub Recent Commit](https://github-readme-stats.vercel.app/api/wakatime?username=Olivieroy)
