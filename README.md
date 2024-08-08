@@ -42,6 +42,6 @@ Je suis un développeur front-end spécialisé en WordPress et TailwindCSS. Je c
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-roy-dev-front/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@olivieroy.fr)
 
-## Commits Récents
+<!-- ## Commits Récents
 
-![GitHub Recent Commit](https://github-readme-stats.vercel.app/api/wakatime?username=Olivieroy)
+![GitHub Recent Commit](https://github-readme-stats.vercel.app/api/wakatime?username=Olivieroy) -->
